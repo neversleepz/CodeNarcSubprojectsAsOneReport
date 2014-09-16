@@ -1,0 +1,4 @@
+Demonstration of how to make a codeNarc task for all sub-projects of a given project.
+
+This is for my answer to Stack Overflow question
+http://stackoverflow.com/questions/25827908/how-create-a-single-codenarc-report-for-a-multiple-project-gradle-build[How create a single CodeNarc report for a multiple-project Gradle build]

@@ -1,0 +1,3 @@
+rootProject.name = 'CodeNarcSubprojectsAsOneReport'
+
+include 'sample1', 'sample2', 'sample3'
